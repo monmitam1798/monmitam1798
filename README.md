@@ -1,7 +1,7 @@
 # Monmita Mukherjee
 ## GIS Engineer
 
-As a highly skilled GIS professional with 3 years of experience, I specialize in spatial data analysis, geospatial research, and leveraging Remote Sensing technologies to solve complex challenges. Proficient in Python automation, Google Earth Engine, and advanced GIS tools, I deliver innovative, data-driven solutions that enhance decision-making and operational efficiency. Skilled in both technical and leadership capacities, I excel in empowering organizations with actionable geospatial insights.
+Detail-oriented GIS professional with 3 years of experience in geospatial analysis, spatial database management, and AI/ML applications in GIS. Proficient in QGIS, ArcGIS, Python, and Google Earth Engine, with the ability to perform diverse GIS and Remote Sensing tasks. Currently pursuing a course in full-stack GIS development, I have the expertise to create Web GIS applications and take responsibility for developing innovative and user-focused GIS solutions. Seeking to leverage my skills to deliver impactful geospatial applications and analysis to support organizational goals. Proficient in GIS automation, spatial data analysis, remote sensing, and full-stack GIS development, with expertise in Web GIS applications and AI/ML integration for geospatial solutions.
 ## Technical Skills
 
 - **Programming Languages:**  Python , SQL 
