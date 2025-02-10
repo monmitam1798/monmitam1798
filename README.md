@@ -6,7 +6,7 @@ Monmita Mukherjee is a GIS professional with 2.9 years of experience in geospati
 
 - **Programming Languages:**  Python , SQL 
 - **GIS Software & Tools:** ArcGIS Pro , QGIS, Erdas Imagine  
-- **Remote Sensing Software & Tools:** Erdas Imagine ,ENVI, Google Earth Engine
+- **Remote Sensing Software & Tools:** Erdas Imagine, Google Earth Engine
 - **Python Libraries:**  GeoPandas ,NumPy, Rasterio , Matplotlib  
 - **Databases & Platforms:** PostgreSQL, PostGIS, Geoserver  
 - **Development Tools:** Git ,GitHub ,Visual Studio Code ,Sublime  
