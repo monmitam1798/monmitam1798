@@ -11,3 +11,10 @@ Detail-oriented GIS professional with 3 years of experience in geospatial analys
 - **Databases & Platforms:** PostgreSQL, PostGIS, Geoserver  
 - **Development Tools:** Git ,GitHub ,Visual Studio Code ,Sublime  
 - **Soft Skills:**  Strong analytical and problem-solving abilities , Communication ,Leadership , Team Management , Critical Thinking , Research  
+## Certifications  
+
+- **Python Training** – IIARI (2022)  
+- **Cartography** – ESRI (2023)  
+- **Python for Data Visualization** – Great Learning (2023)  
+- **ArcGIS JS API, ArcGIS Online** – Ezel Tech (2024)  
+- **LULC Mapping with Hyperspectral Satellite Imagery: Deep Learning Approach** – Indaca Institute of Skills (2025)  
