@@ -16,5 +16,6 @@ Detail-oriented GIS professional with 3 years of experience in geospatial analys
 - **Python Training** – IIARI (2022)  
 - **Cartography** – ESRI (2023)  
 - **Python for Data Visualization** – Great Learning (2023)  
-- **ArcGIS JS API, ArcGIS Online** – Ezel Tech (2024)  
+- **ArcGIS JS API, ArcGIS Online** – Ezel Tech (2024)
+- - **ArcGIS Online** – Udemy (2024) 
 - **LULC Mapping with Hyperspectral Satellite Imagery: Deep Learning Approach** – Indaca Institute of Skills (2025)  
