@@ -7,7 +7,7 @@ As a highly skilled GIS professional with 3 years of experience, I specialize in
 - **Programming Languages:**  Python , SQL 
 - **GIS Software & Tools:** ArcGIS Pro , QGIS, Erdas Imagine  
 - **Remote Sensing Software & Tools:** Erdas Imagine ,ENVI, Google Earth Engine
-- - **Python Libraries:**  GeoPandas ,NumPy, Rasterio , Matplotlib  
+- **Python Libraries:**  GeoPandas ,NumPy, Rasterio , Matplotlib  
 - **Databases & Platforms:** PostgreSQL, PostGIS, Geoserver  
 - **Development Tools:** Git ,GitHub ,Visual Studio Code ,Sublime  
 - **Soft Skills:**  Strong analytical and problem-solving abilities , Communication ,Leadership , Team Management , Critical Thinking , Research  
