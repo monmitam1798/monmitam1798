@@ -12,7 +12,6 @@ Monmita Mukherjee is a GIS professional with 2.9 years of experience in geospati
 - **SQL:** Database querying, spatial data manipulation, and optimization for GIS applications.  
 - **Python (GeoPandas, Rasterio, ArcPy, Leafmap):** Scripting for geospatial data processing, visualization, and automation.  
 - **Google Earth Engine:** Cloud-based geospatial data analysis and remote sensing.  
-- **FME:** Data transformation and integration for spatial data workflows.  
 - **ERDAS Imagine:** Remote sensing software for image analysis and classification.  
 - **ModelBuilder:** Visual scripting tool for automating workflows in ArcGIS.  
 - **Git & GitHub:** Version control, collaborative development, and code management for geospatial projects.  
