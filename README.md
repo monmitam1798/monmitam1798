@@ -7,8 +7,8 @@ Monmita Mukherjee is a GIS professional with 3 years of experience in geospatial
 ## Technical Skills  
 
 - **ArcGIS (Desktop & Pro):** Advanced spatial analysis, geoprocessing, and 3D modeling.  
-- **QGIS:** Open-source GIS for data visualization, analysis, and map creation.  
-- **PostGIS & PostgreSQL, AWS:** Spatial database management, geospatial queries, and data optimization.  
+- **QGIS:** Open-source GIS for data visualization, analysis, and map creation. 
+- **PostgreSQL,PostGIS:** Spatial database management, geospatial queries, and data optimization.  
 - **SQL:** Database querying, spatial data manipulation, and optimization for GIS applications.  
 - **Python (GeoPandas, Rasterio, ArcPy, Leafmap):** Scripting for geospatial data processing, visualization, and automation.  
 - **Google Earth Engine:** Cloud-based geospatial data analysis and remote sensing.  
