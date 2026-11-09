@@ -29,8 +29,17 @@ Monmita Mukherjee is a GIS professional with 3 years of experience in geospatial
 - **LULC Mapping with Hyperspectral Satellite Imagery: Deep Learning Approach** – Indaca Institute of Skills (2025)
 ## Professional projects 
 
-- **SVAMITVA Drone Base Project - For Gujrat, Karnataka, Kerla** -The SVAMITVA (Survey of Villages and Mapping with Improvised Technology in Village Areas) project is an innovative initiative launched by the Government of India. It aims to provide a record of property rights for rural residents, enhancing the socio-economic development of villages through accurate mapping and data collection. The SVAMITVA project represents a significant step towards modernizing rural land administration in India. By integrating technology with traditional practices, it aims to uplift rural communities and contribute to the nation’s overall development.
- 
+## SVAMITVA Drone Base Project — Gujarat, Karnataka & Kerala
+
+**Domain:** Drone Survey | Remote Sensing | Land Administration | GIS Mapping
+
+- Supported the SVAMITVA (Survey of Villages and Mapping with Improvised Technology in Village Areas) initiative, launched by the Government of India to establish accurate rural property records.
+- Worked on drone-based geospatial mapping workflows to support rural land administration and property mapping.
+- Supported the integration and processing of geospatial datasets for accurate village-level mapping and spatial data management.
+- Contributed to technology-driven land administration workflows aimed at improving property record accuracy and rural governance.
+- Supported the broader objective of strengthening rural property rights through geospatial technology and digital mapping.
+
+**Key Technologies:** GIS, Remote Sensing, Drone Survey, UAV Data, Photogrammetry, Orthomosaic, Spatial Data Processing, ArcGIS Pro.
 - **Pump Storage Potential Site Analysis – India** - Developed an automated GIS-based workflow using Python to analyse state-wise pump storage potential sites across India. Designed and implemented custom algorithms to streamline data processing, spatial analysis, and geoprocessing tasks. Utilized hydrological modeling techniques to identify suitable locations based on terrain, water availability, and elevation. Ensured data integrity through QA/QC processes and prepared outputs for a dynamic Web GIS application. Expertise in Python automation, remote sensing, and spatial database management contributed to optimizing site selection for sustainable energy solutions. 
 
 ## Disaster Management & Risk Assessment — USA
