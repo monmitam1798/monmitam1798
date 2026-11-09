@@ -80,3 +80,16 @@ Monmita Mukherjee is a GIS professional with 3 years of experience in geospatial
 - Supported data-driven decision-making through automated geoprocessing and spatial analysis workflows.
 
 **Key Technologies:** ArcGIS Pro, Python, ArcPy, Raster-Vector Analysis, Building Footprints, Zoning Data, Vegetation Analysis, Spatial Joins, Zonal Statistics, Spatial Classification, Remote Sensing.
+
+## LiDAR-Based Tree Detection & Height Estimation
+
+**Domain:** LiDAR | Remote Sensing | Forestry Analytics | 3D Geospatial Analysis
+
+- Processed LiDAR point-cloud datasets to generate Digital Elevation Models (DEM), Digital Surface Models (DSM), Digital Terrain Models (DTM), and Normalized Digital Surface Models (nDSM).
+- Applied raster processing and elevation differencing techniques to derive vegetation height information.
+- Utilized zonal statistics and spatial analysis to estimate and summarize tree heights across defined study areas.
+- Performed terrain and surface elevation analysis to distinguish ground elevation from vegetation structures.
+- Generated LiDAR-derived geospatial products to support tree-height estimation and forestry applications.
+- Applied automated geospatial processing techniques to improve the efficiency and consistency of LiDAR-based vegetation analysis.
+
+**Key Technologies:** LiDAR, Point Cloud Processing, ArcGIS Pro, Python, ArcPy, DEM, DSM, DTM, nDSM, Raster Analysis, Zonal Statistics, Elevation Differencing, Remote Sensing.
