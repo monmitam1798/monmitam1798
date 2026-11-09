@@ -53,3 +53,17 @@ Monmita Mukherjee is a GIS professional with 3 years of experience in geospatial
 - Applied spatial analysis techniques to support disaster response planning, infrastructure assessment, and operational decision-making.
 
 **Key Technologies:** ArcGIS Pro, ArcGIS Online, ArcPy, Python, Survey123, StoryMaps, Field Maps, Nearmap, Raster Analysis, Terrain Modelling.
+
+## Pumped Storage Potential Site Analysis — India
+
+**Domain:** Renewable Energy | Hydrological Modelling | Terrain Analysis | GIS Automation
+
+- Developed an automated GIS-based workflow using Python to identify and analyse state-wise pumped-storage potential sites across India.
+- Designed and implemented custom algorithms to streamline geospatial data processing, spatial analysis, and geoprocessing operations.
+- Applied hydrological modelling and terrain analysis techniques to identify potential locations based on elevation differences, terrain characteristics, and water availability.
+- Integrated multiple geospatial datasets to support preliminary site suitability assessment and potential site identification.
+- Implemented QA/QC procedures to ensure spatial data integrity, consistency, and reliability.
+- Prepared and processed geospatial outputs for integration into a dynamic Web GIS application.
+- Contributed to optimizing site selection workflows through Python automation, remote sensing, and spatial database management.
+
+**Key Technologies:** Python, ArcGIS Pro, ArcPy, Remote Sensing, DEM, Hydrological Modelling, Terrain Analysis, Spatial Analysis, QA/QC, Web GIS, Spatial Database Management.
