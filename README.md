@@ -32,3 +32,15 @@ Monmita Mukherjee is a GIS professional with 3 years of experience in geospatial
 - **SVAMITVA Drone Base Project - For Gujrat, Karnataka, Kerla** -The SVAMITVA (Survey of Villages and Mapping with Improvised Technology in Village Areas) project is an innovative initiative launched by the Government of India. It aims to provide a record of property rights for rural residents, enhancing the socio-economic development of villages through accurate mapping and data collection. The SVAMITVA project represents a significant step towards modernizing rural land administration in India. By integrating technology with traditional practices, it aims to uplift rural communities and contribute to the nation’s overall development.
  
 - **Pump Storage Potential Site Analysis – India** - Developed an automated GIS-based workflow using Python to analyse state-wise pump storage potential sites across India. Designed and implemented custom algorithms to streamline data processing, spatial analysis, and geoprocessing tasks. Utilized hydrological modeling techniques to identify suitable locations based on terrain, water availability, and elevation. Ensured data integrity through QA/QC processes and prepared outputs for a dynamic Web GIS application. Expertise in Python automation, remote sensing, and spatial database management contributed to optimizing site selection for sustainable energy solutions. 
+
+## 1. Disaster Management & Risk Assessment — USA
+
+**Domain:** Disaster Management | Remote Sensing | Terrain Analysis | GIS Automation
+
+- Conducted GIS-based disaster risk and exposure assessments by integrating remote sensing, environmental, and climate datasets.
+- Developed automated geospatial processing and visualization workflows using Python.
+- Designed and implemented field data collection workflows using **ArcGIS Survey123, StoryMaps, and ArcGIS Field Maps**.
+- Supported AI-driven tree-trimming and tree-cut estimation by integrating Nearmap debris datasets with slope, elevation, and terrain analysis.
+- Applied spatial analysis techniques to support disaster response planning, infrastructure assessment, and operational decision-making.
+
+**Key Technologies:** ArcGIS Pro, ArcGIS Online, ArcPy, Python, Survey123, StoryMaps, Field Maps, Nearmap, Raster Analysis, Terrain Modelling.
