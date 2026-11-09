@@ -67,3 +67,16 @@ Monmita Mukherjee is a GIS professional with 3 years of experience in geospatial
 - Contributed to optimizing site selection workflows through Python automation, remote sensing, and spatial database management.
 
 **Key Technologies:** Python, ArcGIS Pro, ArcPy, Remote Sensing, DEM, Hydrological Modelling, Terrain Analysis, Spatial Analysis, QA/QC, Web GIS, Spatial Database Management.
+
+## GIS Pre-Event Estimation & Environmental Risk Analysis
+
+**Domain:** Disaster Risk Assessment | Building Exposure | Environmental Analytics | Spatial Modelling
+
+- Integrated building footprint datasets, zoning information, and vegetation rasters to develop comprehensive pre-event estimation workflows.
+- Performed raster-vector integration and spatial data processing to assess structural and environmental exposure.
+- Applied spatial joins, classification techniques, and zonal statistics to derive exposure metrics and geospatial indicators.
+- Conducted building-level and environmental exposure analysis to support risk assessment and pre-event planning.
+- Generated spatial analytics to evaluate potential impacts on infrastructure, built environments, and surrounding vegetation.
+- Supported data-driven decision-making through automated geoprocessing and spatial analysis workflows.
+
+**Key Technologies:** ArcGIS Pro, Python, ArcPy, Raster-Vector Analysis, Building Footprints, Zoning Data, Vegetation Analysis, Spatial Joins, Zonal Statistics, Spatial Classification, Remote Sensing.
