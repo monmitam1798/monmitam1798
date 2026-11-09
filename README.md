@@ -33,7 +33,7 @@ Monmita Mukherjee is a GIS professional with 3 years of experience in geospatial
  
 - **Pump Storage Potential Site Analysis – India** - Developed an automated GIS-based workflow using Python to analyse state-wise pump storage potential sites across India. Designed and implemented custom algorithms to streamline data processing, spatial analysis, and geoprocessing tasks. Utilized hydrological modeling techniques to identify suitable locations based on terrain, water availability, and elevation. Ensured data integrity through QA/QC processes and prepared outputs for a dynamic Web GIS application. Expertise in Python automation, remote sensing, and spatial database management contributed to optimizing site selection for sustainable energy solutions. 
 
-## 1. Disaster Management & Risk Assessment — USA
+## Disaster Management & Risk Assessment — USA
 
 **Domain:** Disaster Management | Remote Sensing | Terrain Analysis | GIS Automation
 
